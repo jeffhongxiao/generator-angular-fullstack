@@ -1,6 +1,6 @@
 {
   "name": "generator-angular-fullstack-grunt",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node; forked from 3.0.0 to use the good old grunt, instead of gulp",
   "keywords": [
     "yeoman-generator",
